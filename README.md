@@ -11,7 +11,7 @@
 
 📄 Know about my experiences [Resume-Link](https://bit.ly/3ODDvjq)
 
-⚡ Fun fact **I stream on Youtube.com/RektyRowdyy**
+⚡ Fun fact **I stream on Youtube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
