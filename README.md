@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hridya</h1>
 <p align="left"> <a href="https://twitter.com/rektyrowdyy" target="blank"><img src="https://img.shields.io/twitter/follow/rektyrowdyy?logo=twitter&style=for-the-badge" alt="rektyrowdyy" /></a> </p>
 
-- 🔭 I’m currently working on **Otakugram**
+🔭 I’m currently working on **Otakugram**
 
-- 🌱 I’m currently learning **MERN STACK**
+🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **React, Angular, Javascript, ASP .NET, APIs, SQL**
+💬 Ask me about **React, Angular, Javascript, ASP .NET, APIs, SQL**
 
-- 📄 Know about my experiences [Resume-Link](https://bit.ly/3ODDvjq)
+📄 Know about my experiences [Resume-Link](https://bit.ly/3ODDvjq)
 
-- ⚡ Fun fact **I stream on Youtube.com/RektyRowdyy**
+⚡ Fun fact **I stream on Youtube.com/RektyRowdyy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
