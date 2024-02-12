@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridya</h1>
 <p align="left"> <a href="https://twitter.com/rektyrowdyy" target="blank"><img src="https://img.shields.io/twitter/follow/rektyrowdyy?logo=twitter&style=for-the-badge" alt="rektyrowdyy" /></a> </p>
 
-🔭 I’m currently working on **Otakugram: A Fullstack MERN app that is a heaven created by weebs for the weebs **
+🔭 I’m currently working on **Otakugram [A Fullstack MERN app that is a heaven created by weebs for the weebs]**
 
 🌱 I’m currently learning **MERN STACK**
 
