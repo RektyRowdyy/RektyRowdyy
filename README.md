@@ -1,8 +1,8 @@
-# 🙋‍♂️ Hridya "RektyRowdyy" Dham
+# 🗿 Hridya "RektyRowdyy" Dham
 
 **`Digital Craftsman (Developer/Creator/Editor)`**
 
-🔭 I'm a full-stack developer and content creator building my version of the digital world one step at a time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Currently I'm working on a project with by budding called **Otakugram** -> a fullstack web app created on **MERN** which will be a heaven created by Weebs for the Weebs!
+🔭 I'm a full-stack developer and content creator building my version of the digital world one step at a time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Currently, I'm working on a project with my buddies called **Otakugram** -> a fullstack web app created on **MERN** which will be a heaven created by Weebs for the Weebs!
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RektyRowdyy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rektyrowdyy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridya-dham-7727ba232/)
