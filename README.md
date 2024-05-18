@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RektyRowdyy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rektyrowdyyval/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridya-dham-7727ba232/)
-[![Static Badge](https://img.shields.io/badge/Resume-%238A2BE2)](https://bit.ly/3ODDvjq) 
+[![Static Badge](https://img.shields.io/badge/Resume-%238A2BE2)]([https://bit.ly/3ODDvjq](https://drive.google.com/file/d/1avEkhg_MD-Rok7Kbu5CZ3f6yCWcXo26g/view?usp=sharing)) 
 
 <p align="left">
   <a href="https://www.youtube.com/c/RektyRowdyy?sub_confirmation=1">
