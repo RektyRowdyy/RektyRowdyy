@@ -5,7 +5,7 @@
 🔭 I'm a full-stack developer and content creator building my version of the digital world one step at a time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Currently, Developing an end-to-end web application using the MERN stack for the 'Eat N Play' cafe, managing all customer transactions, including real-time food orders and automated billing for snooker play.
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RektyRowdyy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rektyrowdyyval/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridya-dham-7727ba232/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rektyrowdyyval/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridya-dham-7727ba232/)
 
 <p align="left">
   <a href="https://www.youtube.com/c/RektyRowdyy?sub_confirmation=1">
