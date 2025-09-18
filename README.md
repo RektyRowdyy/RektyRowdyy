@@ -23,13 +23,3 @@
 <img align="left" alt="Premier Pro" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"/>
 
 <br />
-
-#
-
-### 📊 Stats
-![Hridya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rektyrowdyy&show_icons=true&theme=gruvbox)
-
-
-
-
-
